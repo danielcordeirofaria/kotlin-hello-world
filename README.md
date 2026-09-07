@@ -4,7 +4,7 @@ This is a simple Kotlin console program that prints "Hello, World!" to the scree
 
 My purpose in creating this program was to get comfortable with my development environment and tools before moving on to more complex work, so that setup and tooling questions do not slow me down later.
 
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://www.youtube.com/watch?v=IyNT5zFq8cI)
 
 # Development Environment
 
